@@ -1,4 +1,4 @@
-# Python para dados
+# Análise de Saúde do Sono
 Foram respondidas diversas perguntas sobre a saúde do sono de diferentes pessoas e profissões através da manipulação do DataFrame com Pandas. Foi possível realizar diversas operações, como filtrar dados por idade, profissão, sexo, entre outros critérios, calcular estatísticas descritivas, como média, mediana, moda, identificar correlações entre variáveis, visualizar padrões e tendências nos dados, entre outras análises. 
 
 <hr>
